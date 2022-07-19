@@ -36,7 +36,7 @@ https://iss.oden.utexas.edu/?p=projects/galois/lonestar
 
 ### Polybench
 ##### Link
-http://web.cse.ohio-state.edu/~pouchet.2/software/polybench/GPU/index.html
+https://github.com/sgrauerg/polybenchGpu (The official http://web.cse.ohio-state.edu/~pouchet.2/software/polybench/GPU/index.html cannot work now) 
 ##### Latest update time on code
 2012
 ##### Included programs
